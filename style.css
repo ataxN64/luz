@@ -1,3 +1,9 @@
+body{
+  background-image: url(https://media.istockphoto.com/vectors/illustration-of-cats-background-vector-id1028215076);
+  background-repeat: no-repeat;
+  font-size: cover;
+}
+
 .btn {
 display: inline-block;
 padding: 112px 383px;
