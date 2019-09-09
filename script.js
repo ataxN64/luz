@@ -1,0 +1,1 @@
+// Best viewed in Chrome or Firefox; the labels won't animate in Safari (the switch still does), and is untested in IE.
